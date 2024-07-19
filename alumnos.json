@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "cedula": "12345678",
+            "nombre": "Pedro",
+            "apellido": "Gonzalez",
+            "nota1": 85,
+            "nota2": 90,
+            "nota3": 95
+        },
+        {
+            "cedula": "87654321",
+            "nombre": "Ana",
+            "apellido": "Martinez",
+            "nota1": 78,
+            "nota2": 82,
+            "nota3": 88
+        },
+        {
+            "cedula": "11223344",
+            "nombre": "Luis",
+            "apellido": "Perez",
+            "nota1": 92,
+            "nota2": 89,
+            "nota3": 94
+        }
+    ]
+}
